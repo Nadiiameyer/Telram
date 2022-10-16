@@ -1,0 +1,21 @@
+div{
+    color: grey;
+}
+
+
+button{
+    width: 10%;
+    padding: 10px;
+    background-color: rgb(13, 13, 126);
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button{
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
